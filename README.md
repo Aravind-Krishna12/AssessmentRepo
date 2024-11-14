@@ -1,0 +1,1 @@
+Create a simple web project that demonstrates Git and GitHub workflow skills
